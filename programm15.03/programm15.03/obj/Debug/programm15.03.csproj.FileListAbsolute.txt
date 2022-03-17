@@ -1,0 +1,10 @@
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\bin\Debug\programm15.03.exe.config
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\bin\Debug\programm15.03.exe
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\bin\Debug\programm15.03.pdb
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\obj\Debug\programm15.03.csproj.AssemblyReference.cache
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\obj\Debug\programm15._03.Form1.resources
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\obj\Debug\programm15._03.Properties.Resources.resources
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\obj\Debug\programm15.03.csproj.GenerateResource.cache
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\obj\Debug\programm15.03.csproj.CoreCompileInputs.cache
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\obj\Debug\programm15.03.exe
+D:\21is-20 Dryukov Stepan\programm15.03\programm15.03\obj\Debug\programm15.03.pdb
